@@ -11,7 +11,7 @@ import pytz
 from datetime import datetime
 
 
-IST = pytz.timezone('Asia/Kolkata')
+IST = pytz.timezone('Asia/Colombo')
 MessageCount = 0
 BOT_STATUS = "0"
 status = set(int(x) for x in (BOT_STATUS).split())
