@@ -18,7 +18,7 @@ skip_no=""
 caption=""
 channel_type=""
 channel_id_=""
-IST = pytz.timezone('Asia/Kolkata')
+IST = pytz.timezone('Asia/Colombo')
 OWNER=int(Config.OWNER_ID)
 
 
